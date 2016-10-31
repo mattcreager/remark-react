@@ -17,7 +17,7 @@
   ],
   "dependencies": {
     "hast-to-hyperscript": "^2.0.1",
-    "hast-util-sanitize": "^1.0.0",
+    "hast-util-sanitize": "github:mattcreager/hast-util-sanitize",
     "mdast-util-to-hast": "^1.0.0"
   },
   "devDependencies": {
